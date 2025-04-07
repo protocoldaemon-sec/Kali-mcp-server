@@ -16,6 +16,8 @@ The goal is to enable AI-driven offensive security testing by:
 - Using AI to suggest and run terminal commands to solve CTF challenges or automate recon/exploitation tasks.
 - Allowing MCP apps to send custom requests (e.g., `curl`, `nmap`, `ffuf`, etc.) and receive structured outputs.
 
+Here are some example for my testing (I used google's AI `gemini 2.0 flash`)
+
 ### Example solving my web CTF challenge in RamadanCTF
 https://github.com/user-attachments/assets/dc93b71d-9a4a-4ad5-8079-2c26c04e5397
 
@@ -65,6 +67,16 @@ edit (C:\Users\USERNAME\AppData\Roaming\Claude\claude_desktop_config.json)
 
 #### Configuration for [5ire](https://github.com/nanbingxyz/5ire) Desktop Application:
 - Simply add an MCP with the command `python3 /absolute/path/to/mcp_server.py http://LINUX_IP:5000` and it will automatically generate the needed configuration files.
+
+## 🔮 Future Possibilities / Use Cases
+
+There are more possibilites that described since the AI can now execute commands on the terminal. Here are some example:
+
+- Memory forensics using Volatility
+  - Automating memory analysis tasks such as process enumeration, DLL injection checks, and registry extraction from memory dumps.
+
+- Disk forensics with SleuthKit
+  - Automating evidence acquisition and analysis from disk images, timeline generation, file carving, and hash comparisons.
 
 
 ## ⚠️ Disclaimer:
