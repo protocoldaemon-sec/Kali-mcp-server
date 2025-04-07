@@ -68,7 +68,7 @@ edit (C:\Users\USERNAME\AppData\Roaming\Claude\claude_desktop_config.json)
 #### Configuration for [5ire](https://github.com/nanbingxyz/5ire) Desktop Application:
 - Simply add an MCP with the command `python3 /absolute/path/to/mcp_server.py http://LINUX_IP:5000` and it will automatically generate the needed configuration files.
 
-## 🔮 Future Possibilities / Use Cases
+## 🔮 Other Possibilities
 
 There are more possibilites than described since the AI model can now execute commands on the terminal. Here are some example:
 
