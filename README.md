@@ -1,6 +1,6 @@
 # MCP Kali Server
 
-**Kali MCP Server** is a lightweight API bridge that connects MCP Clients (e.g: Claude Desktop, 5ire) to the API server which allows excuting commands on a Linux terminal.
+**Kali MCP Server** is a lightweight API bridge that connects MCP Clients (e.g: Claude Desktop, [5ire](https://github.com/nanbingxyz/5ire)) to the API server which allows excuting commands on a Linux terminal.
 
 This allows the MCP to run terminal commands like `nmap`, `nxc` or any other tool, interact with web applications using tools like `curl`, `wget`, `gobuster`. 
  And perform **AI-assisted penetration testing**, solving **CTF web challenge** in real time, helping in **solving machines from HTB or THM**.
@@ -42,7 +42,7 @@ python3 kali_server.py
 #### Configuration for claude desktop:
 edit (C:\Users\USERNAME\AppData\Roaming\Claude\claude_desktop_config.json)
 
-```
+```json
 {
     "mcpServers": {
         "kali_mcp": {
@@ -56,5 +56,5 @@ edit (C:\Users\USERNAME\AppData\Roaming\Claude\claude_desktop_config.json)
 }
 ```
 
-#### Configuration for 5ier Desktop Application:
+#### Configuration for [5ire](https://github.com/nanbingxyz/5ire) Desktop Application:
 - Simply add an MCP with the command `python3 /absolute/path/to/mcp_server.py http://LINUX_IP:5000` and it will automatically generate the needed configuration files.
