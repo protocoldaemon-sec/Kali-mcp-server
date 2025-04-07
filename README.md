@@ -65,3 +65,8 @@ edit (C:\Users\USERNAME\AppData\Roaming\Claude\claude_desktop_config.json)
 
 #### Configuration for [5ire](https://github.com/nanbingxyz/5ire) Desktop Application:
 - Simply add an MCP with the command `python3 /absolute/path/to/mcp_server.py http://LINUX_IP:5000` and it will automatically generate the needed configuration files.
+
+
+## ⚠️ Disclaimer:
+This project is intended solely for educational and ethical testing purposes. Any misuse of the information or tools provided — including unauthorized access, exploitation, or malicious activity — is strictly prohibited.
+The author assumes no responsibility for misuse.
