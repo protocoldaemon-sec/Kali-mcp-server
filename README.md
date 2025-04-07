@@ -70,7 +70,7 @@ edit (C:\Users\USERNAME\AppData\Roaming\Claude\claude_desktop_config.json)
 
 ## 🔮 Future Possibilities / Use Cases
 
-There are more possibilites that described since the AI can now execute commands on the terminal. Here are some example:
+There are more possibilites than described since the AI model can now execute commands on the terminal. Here are some example:
 
 - Memory forensics using Volatility
   - Automating memory analysis tasks such as process enumeration, DLL injection checks, and registry extraction from memory dumps.
