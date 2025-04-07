@@ -76,7 +76,7 @@ There are more possibilites than described since the AI model can now execute co
   - Automating memory analysis tasks such as process enumeration, DLL injection checks, and registry extraction from memory dumps.
 
 - Disk forensics with SleuthKit
-  - Automating evidence acquisition and analysis from disk images, timeline generation, file carving, and hash comparisons.
+  - Automating analysis from disk images, timeline generation, file carving, and hash comparisons.
 
 
 ## ⚠️ Disclaimer:
