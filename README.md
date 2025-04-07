@@ -16,6 +16,13 @@ The goal is to enable AI-driven offensive security testing by:
 - Using AI to suggest and run terminal commands to solve CTF challenges or automate recon/exploitation tasks.
 - Allowing MCP apps to send custom requests (e.g., `curl`, `nmap`, `ffuf`, etc.) and receive structured outputs.
 
+### Example solving my web CTF challenge in RamadanCTF
+https://github.com/user-attachments/assets/dc93b71d-9a4a-4ad5-8079-2c26c04e5397
+
+### Trying to solve machine "code" from HTB
+https://github.com/user-attachments/assets/3ec06ff8-0bdf-4ad5-be71-2ec490b7ee27
+
+
 ---
 
 ## 🚀 Features
