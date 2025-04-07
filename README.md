@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/3ec06ff8-0bdf-4ad5-be71-2ec490b7ee27
 
 - 🧠 **AI Endpoint Integration**: Connect your kali to any MCP of your liking such as claude desktop or 5ier.
 - 🖥️ **Command Execution API**: Exposes a controlled API to execute terminal commands on your Kali Linux machine.
-- 🕸️ **Web Challenge Support**: AI can interact with APIs, capture flags, or brute-force login forms via `curl` and `hydra`.
+- 🕸️ **Web Challenge Support**: AI can interact with websites and APIs, capture flags via `curl` and any other tool AI the needs.
 - 🔐 **Designed for Offensive Security Professionals**: Ideal for red teamers, bug bounty hunters, or CTF players automating common tasks.
 
 ---
