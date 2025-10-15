@@ -1,3 +1,2 @@
-flask>=2.0.0
-requests>=2.25.0
-mcp>=0.1.0
+# No external dependencies required for simple_kali_server.py
+# All functionality uses Python standard library only
