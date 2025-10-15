@@ -27,7 +27,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-API_PORT = int(os.environ.get("API_PORT", 5000))
+API_PORT = int(os.environ.get("PORT", os.environ.get("API_PORT", 5000)))
 DEBUG_MODE = os.environ.get("DEBUG_MODE", "0").lower() in ("1", "true", "yes", "y")
 COMMAND_TIMEOUT = 180  # 3 minutes default timeout
 
