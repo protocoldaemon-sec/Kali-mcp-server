@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MCP-Kali-Server
 
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
